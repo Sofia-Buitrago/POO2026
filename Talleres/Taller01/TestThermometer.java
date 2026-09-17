@@ -27,4 +27,5 @@ public class TestThermometer {
         System.out.println("Temperatura actual: " + thermometer.getTemperature());
     }
 }
+
  
